@@ -10,4 +10,4 @@ GUI Homepage Options:
 - Pay Remaining Rental Amount
 - Find Daily Price of a Rental Vehicle
 
-Please read Readme.docx for setup and compilation instructions.
+See Readme.docx for setup and compilation instructions.
